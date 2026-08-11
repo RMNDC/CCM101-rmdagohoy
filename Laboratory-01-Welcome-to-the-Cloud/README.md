@@ -20,7 +20,6 @@ Upon successful completion of this mission, you should be able to:
 - Create and maintain a professional GitHub repository.  
 - Document technical work using Markdown.  
 - Demonstrate proper documentation practices used by cloud professionals. 
- ## Activities Performed 
  
 ## Linux Commands Used
 - sudo adduser (username) - to create a new user 
