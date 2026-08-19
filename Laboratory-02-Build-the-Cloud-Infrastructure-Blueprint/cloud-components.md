@@ -5,7 +5,7 @@ The cloud needs compute resources to run applications, services, and virtual mac
 
 ## Storage Resources
 
-What is it? Storage resources provide space for storing the operating system, applications, files, and other data.
+Storage resources provide space for storing the operating system, applications, files, and other data.
 The cloud needs storage resources to store data persistently and provide applications with access to the information they need.
 `/dev/vda1` (19G), `/dev/vda16` (881M), and `/dev/vda15` (105M) disks from Checkpoint 2.
 
