@@ -1,4 +1,3 @@
-# Cloud Platform Comparison
 
 ## Comparison Table
 
@@ -25,3 +24,13 @@
 
 ### 4. Which cloud platform would you personally choose and why?
 *I would personally choose AWS because it provides a broad selection of cloud services and can support many different types of workloads. Its combination of computing, storage, networking, databases, security, and other services makes it a flexible choice for organizations with changing requirements.
+
+## Service Matching Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
