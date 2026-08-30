@@ -1,4 +1,4 @@
-## AWS Research
+## AWS 
 
 ## Brief Overview
 Amazon Web Services (AWS) offers a wide range of cloud services that organizations can use to build, deploy, store, and manage applications without owning and maintaining all of the
