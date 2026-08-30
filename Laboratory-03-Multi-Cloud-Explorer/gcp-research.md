@@ -1,4 +1,4 @@
-# Google Cloud Platform (GCP) Research
+# Google Cloud Platform (GCP) 
 
 ## Brief Overview
 Google Cloud Platform launched publicly around 2008–2011 and is best known for data analytics, AI/ML, and container orchestration — Google created Kubernetes and open-sourced it.
