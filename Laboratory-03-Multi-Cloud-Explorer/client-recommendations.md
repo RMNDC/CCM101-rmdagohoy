@@ -45,3 +45,16 @@ This is important for an e-commerce company that may experience sudden increases
 
 ### Recommended Services
 **Amazon EC2**, **Elastic Load Balancing**, **Amazon CloudFront**
+
+---
+
+# Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides scalable cloud services that allow startups to begin with smaller resources and increase capacity as their applications grow. |
+| Enterprise Organization | AWS | AWS offers a broad range of services and global infrastructure that can support the complex and changing requirements of large organizations. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong Artificial Intelligence and Machine Learning capabilities, including tools for developing, training, and deploying AI applications. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service designed to deploy, manage, and scale containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, scalable computing services, and availability features that can support web applications serving users around the world. |
