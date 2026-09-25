@@ -1,10 +1,10 @@
 # MinIO Deployment
 
 ## Docker Command Used
-    docker run -d -p 9000:9000 -p 9001:9001 --name minio-server \
-    -e 'MINIO_ROOT_USER=cloudadmin' \
-    -e 'MINIO_ROOT_PASSWORD=CloudNova2026!' \
-    coollabsio/minio:RELEASE.2025-10-15T17-29-55Z server /data --console-address ":9001"
+docker run -d -p 9000:9000 -p 9001:9001 --name minio-server \
+-e 'MINIO_ROOT_USER=cloudadmin' \
+-e 'MINIO_ROOT_PASSWORD=CloudNova2026!' \
+coollabsio/minio:RELEASE.2025-10-15T17-29-55Z server /data --console-address ":9001"
 
 ## Web Console Port
 9001
