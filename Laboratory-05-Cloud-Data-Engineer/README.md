@@ -1,4 +1,3 @@
-# Laboratory 05 – The Cloud Data Engineer
 
 ## Mission Overview
 Congratulations! Your seamless deployment of containerized web servers has caught the attention of 
