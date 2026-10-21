@@ -121,10 +121,9 @@ Cron job added:
 ```
 
 ## Skills Learned
-- Setting up and networking a Linux server in a virtual machine
-- Managing a remote server through SSH
-- Installing software from third-party repositories and troubleshooting failed installs
+- Setting up and networking a Linux Ubuntu server in a virtual machine
+- Managing a remote server through SSH using Powershell
+- Installing software from third-party repositories
 - Deploying multi-container applications with Docker Compose
-- Using Docker volumes for persistent data
 - Securing a server with UFW and understanding how Docker bypasses it
-- Writing Bash scripts and automating them with cron
+- Using Cron for automating and Adding bash script
